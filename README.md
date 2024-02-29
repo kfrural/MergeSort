@@ -2,7 +2,8 @@
 
     • É um algoritmo de ordenação 
     • tipo: dividir-pra-conquistar
-    • Divide em sub-problemas e resolve de forma recursiva, depois combina as resposta pra uma solução menor.
+    • Divide em sub-problemas e resolve de forma recursiva, depois combina as
+    resposta pra uma solução menor.
     • É um sistema eficiente (tempo e execução).
     • Complexidade: O( n log n) .
 
